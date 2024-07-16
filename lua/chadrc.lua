@@ -13,4 +13,8 @@ M.ui = {
 	-- },
 }
 
+
+
+M.plugins = "plugins.init"
+
 return M
